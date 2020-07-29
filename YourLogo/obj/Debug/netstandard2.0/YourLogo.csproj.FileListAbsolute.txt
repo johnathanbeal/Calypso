@@ -1,0 +1,9 @@
+C:\Calypso\YourLogo\bin\Debug\netstandard2.0\YourLogo.deps.json
+C:\Calypso\YourLogo\bin\Debug\netstandard2.0\YourLogo.dll
+C:\Calypso\YourLogo\bin\Debug\netstandard2.0\YourLogo.pdb
+C:\Calypso\YourLogo\obj\Debug\netstandard2.0\YourLogo.csprojAssemblyReference.cache
+C:\Calypso\YourLogo\obj\Debug\netstandard2.0\YourLogo.csproj.CoreCompileInputs.cache
+C:\Calypso\YourLogo\obj\Debug\netstandard2.0\YourLogo.AssemblyInfoInputs.cache
+C:\Calypso\YourLogo\obj\Debug\netstandard2.0\YourLogo.AssemblyInfo.cs
+C:\Calypso\YourLogo\obj\Debug\netstandard2.0\YourLogo.dll
+C:\Calypso\YourLogo\obj\Debug\netstandard2.0\YourLogo.pdb

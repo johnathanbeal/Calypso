@@ -1,0 +1,9 @@
+C:\Calypso\Framework\bin\Debug\netstandard2.0\Packsharp.deps.json
+C:\Calypso\Framework\bin\Debug\netstandard2.0\Packsharp.dll
+C:\Calypso\Framework\bin\Debug\netstandard2.0\Packsharp.pdb
+C:\Calypso\Framework\obj\Debug\netstandard2.0\Packsharp.csprojAssemblyReference.cache
+C:\Calypso\Framework\obj\Debug\netstandard2.0\Packsharp.csproj.CoreCompileInputs.cache
+C:\Calypso\Framework\obj\Debug\netstandard2.0\Packsharp.AssemblyInfoInputs.cache
+C:\Calypso\Framework\obj\Debug\netstandard2.0\Packsharp.AssemblyInfo.cs
+C:\Calypso\Framework\obj\Debug\netstandard2.0\Packsharp.dll
+C:\Calypso\Framework\obj\Debug\netstandard2.0\Packsharp.pdb

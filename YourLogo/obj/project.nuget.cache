@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zCi6KPvGZf08VuAc4X3X2gi4MZO5Ft3zl8yQ5TmzW0tMyMHZf9+JumEC23ly0e672G3KRDgs6u+gLZOsBvflQ==",
+  "success": true,
+  "projectFilePath": "C:\\Calypso\\YourLogo\\YourLogo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
