@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packsharp", "Framework\Packsharp.csproj", "{124897CB-83F0-4ED6-B138-65E8E71FB978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourLogo.Tests", "YourLogo.Tests\YourLogo.Tests.csproj", "{2105F2CB-A2F0-4440-B5CB-31C1FE1AB5B4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourLogo", "YourLogo\YourLogo.csproj", "{F3EE41E1-57EA-4486-8103-225AB5C62E34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourLogo.NUnit", "YourLogo.NUnit\YourLogo.NUnit.csproj", "{25D76C51-18D0-4280-A275-D9E250F22FE3}"
