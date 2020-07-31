@@ -96,3 +96,5 @@ C:\Calypso\YourLogo.NUnit\obj\Debug\netcoreapp3.1\YourLogo.NUnit.pdb
 C:\Calypso\YourLogo.NUnit\obj\Debug\netcoreapp3.1\YourLogo.NUnit.genruntimeconfig.cache
 C:\Calypso\YourLogo.NUnit\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 C:\Calypso\YourLogo.NUnit\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Calypso\YourLogo.NUnit\bin\Debug\netcoreapp3.1\YourLogo.dll
+C:\Calypso\YourLogo.NUnit\bin\Debug\netcoreapp3.1\YourLogo.pdb

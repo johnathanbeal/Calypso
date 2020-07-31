@@ -1214,6 +1214,20 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "YourLogo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Selenium.Support": "3.141.0",
+          "Selenium.WebDriver": "3.141.0"
+        },
+        "compile": {
+          "bin/placeholder/YourLogo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YourLogo.dll": {}
+        }
       }
     }
   },
@@ -4543,6 +4557,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "YourLogo/1.0.0": {
+      "type": "project",
+      "path": "../YourLogo/YourLogo.csproj",
+      "msbuildProject": "../YourLogo/YourLogo.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4551,6 +4570,7 @@
       "NUnit3TestAdapter >= 3.15.1",
       "Selenium.Support >= 3.141.0",
       "Selenium.WebDriver >= 3.141.0",
+      "YourLogo >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -4586,7 +4606,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Calypso\\YourLogo\\YourLogo.csproj": {
+              "projectPath": "C:\\Calypso\\YourLogo\\YourLogo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
